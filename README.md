@@ -76,17 +76,15 @@ Puedes visualizar el proyecto publicado en GitHub Pages:
 
 ## 👩‍💻 Autora
 
-**Kely Hincapié**
+**Kely Jhojana Hincapié Zapata**
 
-Especialista en Analítica de Datos | Administradora Financiera | Gestión de Datos y Transformación Digital
+Especialista en Analítica de Datos | Administradora Financiera | Tecnologa en Gestión de Redes de Datos Gestión de Datos 
 
-Intereses profesionales:
-
-* Business Intelligence
-* Analítica de Datos
-* Automatización de procesos
-* Visualización de información
-* Transformación digital
+Enfoque profesional en:
+- Gestión y análisis de datos.
+- Business Intelligence y visualización de información.
+- Automatización y optimización de procesos.
+- Transformación digital basada en datos.
 
 ---
 
