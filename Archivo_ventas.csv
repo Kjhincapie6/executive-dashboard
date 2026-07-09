@@ -1,0 +1,1001 @@
+Fecha,Producto,Precio,Costo,Cantidad,Cliente,Categoria
+2026-03-19,Camiseta,50000,20000,20,Elena,Ropa Superior
+2026-03-03,Camiseta,50000,20000,8,Ana,Ropa Superior
+2026-01-19,Camiseta,50000,20000,18,Carlos,Ropa Superior
+2026-02-26,Zapatos,180000,90000,16,Luis,Calzado
+2026-01-11,Accesorios,40000,15000,5,Marta,Complementos
+2026-03-16,Accesorios,40000,15000,4,Ana,Complementos
+2026-02-02,Chaqueta,220000,110000,12,Jorge,Invierno
+2026-02-02,Chaqueta,220000,110000,17,Jorge,Invierno
+2026-03-08,Camiseta,50000,20000,6,Ana,Ropa Superior
+2026-03-18,Zapatos,180000,90000,11,Luis,Calzado
+2026-03-09,Chaqueta,220000,110000,3,Ana,Invierno
+2026-03-09,Zapatos,180000,90000,14,Pedro,Calzado
+2026-02-27,Accesorios,40000,15000,4,Lucia,Complementos
+2026-02-20,Accesorios,40000,15000,11,Pedro,Complementos
+2026-01-09,Accesorios,40000,15000,13,Carlos,Complementos
+2026-02-11,Jeans,120000,60000,12,Elena,Ropa Inferior
+2026-03-04,Jeans,120000,60000,17,Carlos,Ropa Inferior
+2026-01-29,Zapatos,180000,90000,8,Carlos,Calzado
+2026-01-01,Camiseta,50000,20000,13,Luis,Ropa Superior
+2026-02-16,Accesorios,40000,15000,2,Ana,Complementos
+2026-02-21,Jeans,120000,60000,17,Jorge,Ropa Inferior
+2026-01-26,Zapatos,180000,90000,10,Elena,Calzado
+2026-02-19,Camiseta,50000,20000,12,Luis,Ropa Superior
+2026-01-28,Jeans,120000,60000,19,Marta,Ropa Inferior
+2026-02-15,Zapatos,180000,90000,17,Jorge,Calzado
+2026-03-04,Jeans,120000,60000,14,Luis,Ropa Inferior
+2026-03-07,Zapatos,180000,90000,12,Jorge,Calzado
+2026-03-21,Zapatos,180000,90000,1,Elena,Calzado
+2026-02-15,Camiseta,50000,20000,8,Lucia,Ropa Superior
+2026-01-02,Camiseta,50000,20000,17,Luis,Ropa Superior
+2026-01-29,Accesorios,40000,15000,6,Luis,Complementos
+2026-02-10,Zapatos,180000,90000,20,Jorge,Calzado
+2026-03-22,Accesorios,40000,15000,18,Luis,Complementos
+2026-03-13,Chaqueta,220000,110000,15,Pedro,Invierno
+2026-02-16,Jeans,120000,60000,14,Jorge,Ropa Inferior
+2026-01-01,Accesorios,40000,15000,12,Pedro,Complementos
+2026-04-01,Zapatos,180000,90000,13,Carlos,Calzado
+2026-02-01,Accesorios,40000,15000,11,Pedro,Complementos
+2026-03-28,Camiseta,50000,20000,18,Carlos,Ropa Superior
+2026-02-14,Chaqueta,220000,110000,6,Carlos,Invierno
+2026-02-20,Accesorios,40000,15000,2,Marta,Complementos
+2026-01-21,Camiseta,50000,20000,17,Lucia,Ropa Superior
+2026-02-26,Accesorios,40000,15000,12,Jorge,Complementos
+2026-02-21,Zapatos,180000,90000,10,Ana,Calzado
+2026-03-28,Camiseta,50000,20000,9,Marta,Ropa Superior
+2026-03-31,Accesorios,40000,15000,8,Elena,Complementos
+2026-01-27,Camiseta,50000,20000,13,Ana,Ropa Superior
+2026-01-18,Accesorios,40000,15000,20,Lucia,Complementos
+2026-01-06,Camiseta,50000,20000,6,Jorge,Ropa Superior
+2026-01-30,Zapatos,180000,90000,3,Luis,Calzado
+2026-01-23,Zapatos,180000,90000,14,Carlos,Calzado
+2026-01-05,Jeans,120000,60000,11,Pedro,Ropa Inferior
+2026-01-16,Jeans,120000,60000,18,Marta,Ropa Inferior
+2026-02-02,Camiseta,50000,20000,20,Carlos,Ropa Superior
+2026-02-20,Zapatos,180000,90000,16,Carlos,Calzado
+2026-03-22,Chaqueta,220000,110000,8,Marta,Invierno
+2026-02-08,Accesorios,40000,15000,5,Carlos,Complementos
+2026-02-01,Accesorios,40000,15000,18,Lucia,Complementos
+2026-01-27,Chaqueta,220000,110000,14,Carlos,Invierno
+2026-01-20,Jeans,120000,60000,3,Jorge,Ropa Inferior
+2026-03-07,Camiseta,50000,20000,17,Luis,Ropa Superior
+2026-01-22,Camiseta,50000,20000,16,Carlos,Ropa Superior
+2026-02-08,Accesorios,40000,15000,19,Lucia,Complementos
+2026-01-25,Camiseta,50000,20000,3,Jorge,Ropa Superior
+2026-03-23,Camiseta,50000,20000,11,Pedro,Ropa Superior
+2026-02-14,Zapatos,180000,90000,15,Elena,Calzado
+2026-01-22,Jeans,120000,60000,5,Pedro,Ropa Inferior
+2026-02-16,Camiseta,50000,20000,13,Luis,Ropa Superior
+2026-03-24,Zapatos,180000,90000,14,Carlos,Calzado
+2026-03-28,Camiseta,50000,20000,2,Marta,Ropa Superior
+2026-03-02,Camiseta,50000,20000,17,Jorge,Ropa Superior
+2026-03-06,Zapatos,180000,90000,4,Pedro,Calzado
+2026-01-28,Zapatos,180000,90000,8,Ana,Calzado
+2026-02-03,Chaqueta,220000,110000,16,Luis,Invierno
+2026-01-28,Jeans,120000,60000,8,Elena,Ropa Inferior
+2026-03-20,Zapatos,180000,90000,18,Lucia,Calzado
+2026-03-29,Jeans,120000,60000,9,Pedro,Ropa Inferior
+2026-02-06,Camiseta,50000,20000,6,Pedro,Ropa Superior
+2026-01-11,Accesorios,40000,15000,12,Carlos,Complementos
+2026-01-24,Accesorios,40000,15000,11,Elena,Complementos
+2026-01-30,Camiseta,50000,20000,19,Carlos,Ropa Superior
+2026-01-16,Jeans,120000,60000,5,Pedro,Ropa Inferior
+2026-01-22,Chaqueta,220000,110000,18,Carlos,Invierno
+2026-02-21,Accesorios,40000,15000,18,Luis,Complementos
+2026-01-05,Accesorios,40000,15000,12,Marta,Complementos
+2026-02-15,Jeans,120000,60000,5,Ana,Ropa Inferior
+2026-03-08,Jeans,120000,60000,8,Carlos,Ropa Inferior
+2026-02-07,Camiseta,50000,20000,16,Elena,Ropa Superior
+2026-03-10,Accesorios,40000,15000,7,Luis,Complementos
+2026-03-25,Jeans,120000,60000,13,Pedro,Ropa Inferior
+2026-01-17,Chaqueta,220000,110000,6,Jorge,Invierno
+2026-03-01,Jeans,120000,60000,15,Jorge,Ropa Inferior
+2026-02-14,Camiseta,50000,20000,13,Marta,Ropa Superior
+2026-02-10,Camiseta,50000,20000,2,Pedro,Ropa Superior
+2026-01-03,Zapatos,180000,90000,14,Pedro,Calzado
+2026-02-03,Zapatos,180000,90000,18,Jorge,Calzado
+2026-01-05,Accesorios,40000,15000,15,Elena,Complementos
+2026-03-18,Chaqueta,220000,110000,20,Ana,Invierno
+2026-01-11,Zapatos,180000,90000,6,Ana,Calzado
+2026-03-01,Accesorios,40000,15000,3,Jorge,Complementos
+2026-02-05,Camiseta,50000,20000,5,Carlos,Ropa Superior
+2026-01-15,Zapatos,180000,90000,7,Marta,Calzado
+2026-01-22,Accesorios,40000,15000,5,Marta,Complementos
+2026-01-24,Zapatos,180000,90000,4,Carlos,Calzado
+2026-01-25,Chaqueta,220000,110000,4,Carlos,Invierno
+2026-03-14,Camiseta,50000,20000,20,Elena,Ropa Superior
+2026-01-12,Chaqueta,220000,110000,2,Pedro,Invierno
+2026-02-06,Chaqueta,220000,110000,16,Luis,Invierno
+2026-02-13,Camiseta,50000,20000,6,Elena,Ropa Superior
+2026-02-01,Zapatos,180000,90000,17,Elena,Calzado
+2026-01-05,Chaqueta,220000,110000,9,Lucia,Invierno
+2026-03-28,Accesorios,40000,15000,12,Elena,Complementos
+2026-03-10,Camiseta,50000,20000,5,Carlos,Ropa Superior
+2026-03-28,Chaqueta,220000,110000,19,Luis,Invierno
+2026-03-17,Jeans,120000,60000,13,Pedro,Ropa Inferior
+2026-01-01,Camiseta,50000,20000,13,Marta,Ropa Superior
+2026-02-25,Chaqueta,220000,110000,13,Marta,Invierno
+2026-02-05,Camiseta,50000,20000,3,Marta,Ropa Superior
+2026-04-01,Zapatos,180000,90000,16,Lucia,Calzado
+2026-02-18,Zapatos,180000,90000,3,Marta,Calzado
+2026-02-04,Jeans,120000,60000,2,Elena,Ropa Inferior
+2026-03-27,Zapatos,180000,90000,3,Elena,Calzado
+2026-03-12,Accesorios,40000,15000,5,Jorge,Complementos
+2026-02-20,Jeans,120000,60000,20,Ana,Ropa Inferior
+2026-03-01,Accesorios,40000,15000,16,Elena,Complementos
+2026-03-12,Jeans,120000,60000,8,Luis,Ropa Inferior
+2026-02-11,Chaqueta,220000,110000,18,Pedro,Invierno
+2026-02-05,Jeans,120000,60000,11,Luis,Ropa Inferior
+2026-01-13,Jeans,120000,60000,6,Pedro,Ropa Inferior
+2026-03-30,Accesorios,40000,15000,2,Marta,Complementos
+2026-03-17,Jeans,120000,60000,5,Carlos,Ropa Inferior
+2026-03-06,Zapatos,180000,90000,18,Luis,Calzado
+2026-02-20,Jeans,120000,60000,11,Ana,Ropa Inferior
+2026-03-10,Camiseta,50000,20000,20,Jorge,Ropa Superior
+2026-03-20,Accesorios,40000,15000,7,Luis,Complementos
+2026-01-31,Zapatos,180000,90000,2,Carlos,Calzado
+2026-03-26,Jeans,120000,60000,2,Pedro,Ropa Inferior
+2026-01-08,Accesorios,40000,15000,14,Ana,Complementos
+2026-03-06,Camiseta,50000,20000,3,Jorge,Ropa Superior
+2026-02-13,Chaqueta,220000,110000,13,Ana,Invierno
+2026-03-29,Camiseta,50000,20000,11,Elena,Ropa Superior
+2026-02-07,Chaqueta,220000,110000,19,Pedro,Invierno
+2026-02-26,Accesorios,40000,15000,10,Pedro,Complementos
+2026-02-16,Accesorios,40000,15000,9,Elena,Complementos
+2026-03-28,Jeans,120000,60000,6,Marta,Ropa Inferior
+2026-01-19,Accesorios,40000,15000,7,Ana,Complementos
+2026-03-29,Accesorios,40000,15000,6,Pedro,Complementos
+2026-03-06,Chaqueta,220000,110000,18,Luis,Invierno
+2026-01-30,Accesorios,40000,15000,14,Lucia,Complementos
+2026-03-24,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-02-02,Camiseta,50000,20000,3,Luis,Ropa Superior
+2026-03-22,Camiseta,50000,20000,18,Carlos,Ropa Superior
+2026-02-17,Accesorios,40000,15000,11,Carlos,Complementos
+2026-02-08,Jeans,120000,60000,5,Carlos,Ropa Inferior
+2026-03-09,Accesorios,40000,15000,3,Luis,Complementos
+2026-02-13,Accesorios,40000,15000,1,Luis,Complementos
+2026-02-21,Jeans,120000,60000,11,Pedro,Ropa Inferior
+2026-02-27,Chaqueta,220000,110000,14,Elena,Invierno
+2026-03-23,Camiseta,50000,20000,8,Jorge,Ropa Superior
+2026-02-09,Jeans,120000,60000,7,Jorge,Ropa Inferior
+2026-01-21,Camiseta,50000,20000,5,Elena,Ropa Superior
+2026-02-23,Camiseta,50000,20000,18,Lucia,Ropa Superior
+2026-03-15,Jeans,120000,60000,13,Jorge,Ropa Inferior
+2026-02-09,Jeans,120000,60000,7,Lucia,Ropa Inferior
+2026-01-25,Zapatos,180000,90000,17,Carlos,Calzado
+2026-03-07,Camiseta,50000,20000,9,Pedro,Ropa Superior
+2026-03-24,Zapatos,180000,90000,1,Marta,Calzado
+2026-03-17,Accesorios,40000,15000,9,Lucia,Complementos
+2026-02-28,Chaqueta,220000,110000,5,Pedro,Invierno
+2026-03-06,Chaqueta,220000,110000,9,Carlos,Invierno
+2026-03-04,Camiseta,50000,20000,5,Luis,Ropa Superior
+2026-02-10,Jeans,120000,60000,16,Marta,Ropa Inferior
+2026-01-17,Chaqueta,220000,110000,12,Carlos,Invierno
+2026-02-22,Camiseta,50000,20000,6,Carlos,Ropa Superior
+2026-03-09,Zapatos,180000,90000,19,Luis,Calzado
+2026-02-06,Camiseta,50000,20000,18,Pedro,Ropa Superior
+2026-02-18,Camiseta,50000,20000,2,Jorge,Ropa Superior
+2026-03-30,Jeans,120000,60000,16,Ana,Ropa Inferior
+2026-03-22,Zapatos,180000,90000,7,Luis,Calzado
+2026-03-02,Zapatos,180000,90000,19,Carlos,Calzado
+2026-01-31,Zapatos,180000,90000,2,Jorge,Calzado
+2026-01-16,Zapatos,180000,90000,6,Jorge,Calzado
+2026-01-04,Jeans,120000,60000,8,Lucia,Ropa Inferior
+2026-03-24,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-02-20,Zapatos,180000,90000,4,Pedro,Calzado
+2026-03-12,Jeans,120000,60000,2,Luis,Ropa Inferior
+2026-03-29,Chaqueta,220000,110000,10,Ana,Invierno
+2026-01-10,Zapatos,180000,90000,2,Pedro,Calzado
+2026-02-11,Camiseta,50000,20000,19,Marta,Ropa Superior
+2026-03-23,Jeans,120000,60000,2,Jorge,Ropa Inferior
+2026-01-22,Camiseta,50000,20000,14,Lucia,Ropa Superior
+2026-03-26,Camiseta,50000,20000,1,Lucia,Ropa Superior
+2026-02-10,Camiseta,50000,20000,9,Marta,Ropa Superior
+2026-01-28,Accesorios,40000,15000,16,Pedro,Complementos
+2026-01-14,Zapatos,180000,90000,1,Pedro,Calzado
+2026-03-17,Accesorios,40000,15000,3,Jorge,Complementos
+2026-03-18,Jeans,120000,60000,15,Ana,Ropa Inferior
+2026-02-03,Chaqueta,220000,110000,14,Marta,Invierno
+2026-02-14,Chaqueta,220000,110000,3,Carlos,Invierno
+2026-01-13,Zapatos,180000,90000,7,Lucia,Calzado
+2026-02-18,Zapatos,180000,90000,2,Pedro,Calzado
+2026-02-18,Accesorios,40000,15000,5,Carlos,Complementos
+2026-03-13,Zapatos,180000,90000,6,Marta,Calzado
+2026-03-29,Jeans,120000,60000,9,Lucia,Ropa Inferior
+2026-01-26,Jeans,120000,60000,3,Marta,Ropa Inferior
+2026-02-15,Zapatos,180000,90000,18,Lucia,Calzado
+2026-03-17,Chaqueta,220000,110000,5,Elena,Invierno
+2026-03-27,Zapatos,180000,90000,20,Ana,Calzado
+2026-02-27,Zapatos,180000,90000,2,Luis,Calzado
+2026-03-08,Jeans,120000,60000,9,Ana,Ropa Inferior
+2026-03-04,Accesorios,40000,15000,18,Marta,Complementos
+2026-03-31,Accesorios,40000,15000,14,Jorge,Complementos
+2026-03-02,Camiseta,50000,20000,1,Lucia,Ropa Superior
+2026-03-26,Zapatos,180000,90000,7,Elena,Calzado
+2026-01-06,Chaqueta,220000,110000,13,Lucia,Invierno
+2026-02-11,Camiseta,50000,20000,2,Jorge,Ropa Superior
+2026-02-23,Accesorios,40000,15000,19,Marta,Complementos
+2026-03-03,Zapatos,180000,90000,4,Luis,Calzado
+2026-03-19,Zapatos,180000,90000,19,Luis,Calzado
+2026-02-15,Jeans,120000,60000,7,Lucia,Ropa Inferior
+2026-01-28,Jeans,120000,60000,13,Luis,Ropa Inferior
+2026-02-13,Jeans,120000,60000,15,Pedro,Ropa Inferior
+2026-02-24,Accesorios,40000,15000,8,Luis,Complementos
+2026-02-16,Accesorios,40000,15000,7,Marta,Complementos
+2026-02-03,Accesorios,40000,15000,7,Ana,Complementos
+2026-03-22,Accesorios,40000,15000,20,Elena,Complementos
+2026-01-08,Jeans,120000,60000,3,Pedro,Ropa Inferior
+2026-01-03,Jeans,120000,60000,17,Marta,Ropa Inferior
+2026-03-13,Zapatos,180000,90000,2,Pedro,Calzado
+2026-03-02,Chaqueta,220000,110000,16,Lucia,Invierno
+2026-03-12,Chaqueta,220000,110000,14,Lucia,Invierno
+2026-02-10,Camiseta,50000,20000,14,Lucia,Ropa Superior
+2026-01-24,Zapatos,180000,90000,8,Marta,Calzado
+2026-01-05,Chaqueta,220000,110000,7,Elena,Invierno
+2026-02-18,Accesorios,40000,15000,10,Ana,Complementos
+2026-03-19,Jeans,120000,60000,11,Luis,Ropa Inferior
+2026-01-13,Chaqueta,220000,110000,5,Lucia,Invierno
+2026-01-15,Zapatos,180000,90000,20,Marta,Calzado
+2026-02-16,Camiseta,50000,20000,15,Carlos,Ropa Superior
+2026-03-08,Accesorios,40000,15000,20,Elena,Complementos
+2026-01-13,Camiseta,50000,20000,6,Jorge,Ropa Superior
+2026-03-29,Camiseta,50000,20000,15,Lucia,Ropa Superior
+2026-02-02,Accesorios,40000,15000,10,Ana,Complementos
+2026-02-20,Chaqueta,220000,110000,1,Ana,Invierno
+2026-01-29,Zapatos,180000,90000,16,Jorge,Calzado
+2026-03-14,Camiseta,50000,20000,16,Luis,Ropa Superior
+2026-02-17,Chaqueta,220000,110000,3,Jorge,Invierno
+2026-02-11,Camiseta,50000,20000,2,Marta,Ropa Superior
+2026-01-22,Zapatos,180000,90000,12,Elena,Calzado
+2026-01-14,Chaqueta,220000,110000,7,Pedro,Invierno
+2026-01-28,Zapatos,180000,90000,4,Jorge,Calzado
+2026-03-01,Accesorios,40000,15000,17,Ana,Complementos
+2026-02-21,Camiseta,50000,20000,1,Elena,Ropa Superior
+2026-03-04,Chaqueta,220000,110000,8,Ana,Invierno
+2026-01-03,Jeans,120000,60000,10,Jorge,Ropa Inferior
+2026-03-11,Zapatos,180000,90000,13,Ana,Calzado
+2026-03-30,Zapatos,180000,90000,2,Pedro,Calzado
+2026-03-28,Accesorios,40000,15000,16,Jorge,Complementos
+2026-03-07,Chaqueta,220000,110000,12,Luis,Invierno
+2026-03-12,Zapatos,180000,90000,17,Luis,Calzado
+2026-03-21,Accesorios,40000,15000,8,Elena,Complementos
+2026-02-01,Chaqueta,220000,110000,12,Pedro,Invierno
+2026-02-25,Camiseta,50000,20000,17,Ana,Ropa Superior
+2026-02-14,Zapatos,180000,90000,10,Jorge,Calzado
+2026-01-09,Camiseta,50000,20000,18,Carlos,Ropa Superior
+2026-03-05,Chaqueta,220000,110000,10,Elena,Invierno
+2026-03-21,Zapatos,180000,90000,15,Jorge,Calzado
+2026-03-12,Accesorios,40000,15000,5,Jorge,Complementos
+2026-03-21,Zapatos,180000,90000,16,Luis,Calzado
+2026-03-23,Chaqueta,220000,110000,10,Pedro,Invierno
+2026-01-01,Camiseta,50000,20000,18,Luis,Ropa Superior
+2026-01-30,Chaqueta,220000,110000,12,Carlos,Invierno
+2026-01-03,Zapatos,180000,90000,20,Marta,Calzado
+2026-02-05,Camiseta,50000,20000,12,Pedro,Ropa Superior
+2026-01-16,Accesorios,40000,15000,18,Jorge,Complementos
+2026-01-12,Chaqueta,220000,110000,18,Ana,Invierno
+2026-01-08,Jeans,120000,60000,6,Jorge,Ropa Inferior
+2026-01-08,Chaqueta,220000,110000,19,Jorge,Invierno
+2026-01-14,Chaqueta,220000,110000,2,Pedro,Invierno
+2026-02-08,Zapatos,180000,90000,6,Pedro,Calzado
+2026-01-07,Camiseta,50000,20000,7,Lucia,Ropa Superior
+2026-01-31,Zapatos,180000,90000,13,Luis,Calzado
+2026-02-17,Chaqueta,220000,110000,8,Marta,Invierno
+2026-01-23,Camiseta,50000,20000,4,Marta,Ropa Superior
+2026-02-15,Chaqueta,220000,110000,13,Marta,Invierno
+2026-03-12,Zapatos,180000,90000,9,Pedro,Calzado
+2026-03-16,Accesorios,40000,15000,9,Pedro,Complementos
+2026-03-27,Zapatos,180000,90000,18,Carlos,Calzado
+2026-03-14,Camiseta,50000,20000,4,Carlos,Ropa Superior
+2026-01-20,Accesorios,40000,15000,18,Marta,Complementos
+2026-03-03,Camiseta,50000,20000,14,Lucia,Ropa Superior
+2026-02-11,Zapatos,180000,90000,20,Lucia,Calzado
+2026-01-28,Zapatos,180000,90000,20,Carlos,Calzado
+2026-03-21,Zapatos,180000,90000,6,Luis,Calzado
+2026-03-08,Jeans,120000,60000,1,Marta,Ropa Inferior
+2026-02-03,Zapatos,180000,90000,5,Pedro,Calzado
+2026-02-28,Accesorios,40000,15000,15,Marta,Complementos
+2026-01-02,Accesorios,40000,15000,20,Marta,Complementos
+2026-03-25,Jeans,120000,60000,7,Ana,Ropa Inferior
+2026-03-01,Accesorios,40000,15000,19,Ana,Complementos
+2026-01-06,Chaqueta,220000,110000,1,Pedro,Invierno
+2026-03-11,Chaqueta,220000,110000,3,Marta,Invierno
+2026-03-25,Camiseta,50000,20000,11,Pedro,Ropa Superior
+2026-01-19,Jeans,120000,60000,12,Elena,Ropa Inferior
+2026-02-25,Accesorios,40000,15000,15,Lucia,Complementos
+2026-02-09,Zapatos,180000,90000,18,Elena,Calzado
+2026-02-14,Camiseta,50000,20000,3,Luis,Ropa Superior
+2026-03-05,Chaqueta,220000,110000,8,Luis,Invierno
+2026-02-11,Jeans,120000,60000,6,Ana,Ropa Inferior
+2026-03-29,Jeans,120000,60000,14,Elena,Ropa Inferior
+2026-03-29,Accesorios,40000,15000,3,Ana,Complementos
+2026-02-27,Accesorios,40000,15000,1,Marta,Complementos
+2026-02-21,Chaqueta,220000,110000,6,Lucia,Invierno
+2026-03-03,Zapatos,180000,90000,4,Jorge,Calzado
+2026-02-21,Jeans,120000,60000,3,Marta,Ropa Inferior
+2026-02-22,Accesorios,40000,15000,15,Luis,Complementos
+2026-01-26,Camiseta,50000,20000,8,Pedro,Ropa Superior
+2026-01-10,Camiseta,50000,20000,12,Luis,Ropa Superior
+2026-01-27,Zapatos,180000,90000,4,Elena,Calzado
+2026-02-02,Accesorios,40000,15000,18,Luis,Complementos
+2026-02-03,Jeans,120000,60000,11,Luis,Ropa Inferior
+2026-03-17,Camiseta,50000,20000,1,Pedro,Ropa Superior
+2026-03-27,Accesorios,40000,15000,15,Marta,Complementos
+2026-03-01,Chaqueta,220000,110000,12,Pedro,Invierno
+2026-02-19,Jeans,120000,60000,19,Marta,Ropa Inferior
+2026-02-17,Accesorios,40000,15000,8,Luis,Complementos
+2026-01-17,Jeans,120000,60000,1,Pedro,Ropa Inferior
+2026-03-07,Camiseta,50000,20000,17,Luis,Ropa Superior
+2026-03-12,Chaqueta,220000,110000,11,Pedro,Invierno
+2026-03-21,Accesorios,40000,15000,8,Jorge,Complementos
+2026-01-30,Accesorios,40000,15000,6,Luis,Complementos
+2026-03-11,Camiseta,50000,20000,9,Ana,Ropa Superior
+2026-03-12,Camiseta,50000,20000,8,Marta,Ropa Superior
+2026-02-12,Zapatos,180000,90000,2,Ana,Calzado
+2026-01-27,Zapatos,180000,90000,6,Lucia,Calzado
+2026-03-05,Accesorios,40000,15000,1,Luis,Complementos
+2026-04-01,Camiseta,50000,20000,20,Carlos,Ropa Superior
+2026-02-14,Zapatos,180000,90000,7,Lucia,Calzado
+2026-03-18,Chaqueta,220000,110000,2,Ana,Invierno
+2026-03-31,Jeans,120000,60000,18,Luis,Ropa Inferior
+2026-02-03,Jeans,120000,60000,8,Marta,Ropa Inferior
+2026-02-24,Jeans,120000,60000,13,Ana,Ropa Inferior
+2026-02-01,Accesorios,40000,15000,2,Marta,Complementos
+2026-02-01,Camiseta,50000,20000,4,Jorge,Ropa Superior
+2026-01-01,Accesorios,40000,15000,17,Lucia,Complementos
+2026-03-25,Camiseta,50000,20000,16,Elena,Ropa Superior
+2026-01-09,Jeans,120000,60000,7,Carlos,Ropa Inferior
+2026-02-23,Chaqueta,220000,110000,17,Luis,Invierno
+2026-01-05,Chaqueta,220000,110000,18,Pedro,Invierno
+2026-02-17,Accesorios,40000,15000,12,Carlos,Complementos
+2026-03-09,Chaqueta,220000,110000,17,Marta,Invierno
+2026-01-26,Chaqueta,220000,110000,6,Pedro,Invierno
+2026-01-23,Camiseta,50000,20000,9,Luis,Ropa Superior
+2026-02-16,Camiseta,50000,20000,12,Ana,Ropa Superior
+2026-03-03,Camiseta,50000,20000,2,Lucia,Ropa Superior
+2026-02-25,Camiseta,50000,20000,3,Elena,Ropa Superior
+2026-02-09,Accesorios,40000,15000,15,Jorge,Complementos
+2026-03-29,Chaqueta,220000,110000,18,Marta,Invierno
+2026-01-21,Accesorios,40000,15000,10,Elena,Complementos
+2026-02-02,Jeans,120000,60000,13,Carlos,Ropa Inferior
+2026-01-01,Camiseta,50000,20000,9,Ana,Ropa Superior
+2026-03-25,Jeans,120000,60000,19,Marta,Ropa Inferior
+2026-02-20,Jeans,120000,60000,9,Elena,Ropa Inferior
+2026-03-08,Chaqueta,220000,110000,12,Ana,Invierno
+2026-01-16,Accesorios,40000,15000,1,Ana,Complementos
+2026-02-11,Jeans,120000,60000,14,Luis,Ropa Inferior
+2026-03-01,Zapatos,180000,90000,13,Jorge,Calzado
+2026-01-29,Accesorios,40000,15000,14,Elena,Complementos
+2026-03-16,Chaqueta,220000,110000,3,Carlos,Invierno
+2026-01-28,Zapatos,180000,90000,16,Carlos,Calzado
+2026-03-13,Jeans,120000,60000,16,Ana,Ropa Inferior
+2026-02-17,Camiseta,50000,20000,12,Lucia,Ropa Superior
+2026-02-10,Accesorios,40000,15000,2,Lucia,Complementos
+2026-01-08,Chaqueta,220000,110000,6,Marta,Invierno
+2026-02-18,Accesorios,40000,15000,5,Jorge,Complementos
+2026-02-18,Accesorios,40000,15000,14,Jorge,Complementos
+2026-01-12,Accesorios,40000,15000,12,Jorge,Complementos
+2026-03-05,Camiseta,50000,20000,3,Lucia,Ropa Superior
+2026-02-26,Accesorios,40000,15000,11,Elena,Complementos
+2026-02-02,Zapatos,180000,90000,20,Pedro,Calzado
+2026-03-07,Camiseta,50000,20000,19,Pedro,Ropa Superior
+2026-03-31,Accesorios,40000,15000,6,Marta,Complementos
+2026-03-22,Camiseta,50000,20000,6,Marta,Ropa Superior
+2026-03-03,Jeans,120000,60000,5,Lucia,Ropa Inferior
+2026-02-17,Zapatos,180000,90000,13,Lucia,Calzado
+2026-02-01,Zapatos,180000,90000,10,Marta,Calzado
+2026-01-27,Jeans,120000,60000,6,Pedro,Ropa Inferior
+2026-01-30,Accesorios,40000,15000,6,Elena,Complementos
+2026-03-21,Zapatos,180000,90000,16,Marta,Calzado
+2026-01-08,Jeans,120000,60000,17,Elena,Ropa Inferior
+2026-03-13,Zapatos,180000,90000,9,Pedro,Calzado
+2026-03-19,Zapatos,180000,90000,20,Marta,Calzado
+2026-01-12,Accesorios,40000,15000,12,Pedro,Complementos
+2026-03-22,Camiseta,50000,20000,13,Marta,Ropa Superior
+2026-02-01,Zapatos,180000,90000,3,Marta,Calzado
+2026-02-06,Chaqueta,220000,110000,9,Ana,Invierno
+2026-02-18,Accesorios,40000,15000,13,Luis,Complementos
+2026-01-19,Camiseta,50000,20000,6,Luis,Ropa Superior
+2026-01-18,Camiseta,50000,20000,1,Jorge,Ropa Superior
+2026-01-07,Accesorios,40000,15000,19,Jorge,Complementos
+2026-02-18,Chaqueta,220000,110000,19,Marta,Invierno
+2026-01-27,Zapatos,180000,90000,9,Ana,Calzado
+2026-03-26,Jeans,120000,60000,12,Pedro,Ropa Inferior
+2026-01-07,Accesorios,40000,15000,17,Marta,Complementos
+2026-01-22,Camiseta,50000,20000,20,Ana,Ropa Superior
+2026-03-13,Chaqueta,220000,110000,6,Pedro,Invierno
+2026-01-25,Camiseta,50000,20000,16,Elena,Ropa Superior
+2026-01-04,Accesorios,40000,15000,19,Carlos,Complementos
+2026-01-17,Zapatos,180000,90000,7,Ana,Calzado
+2026-01-11,Zapatos,180000,90000,4,Jorge,Calzado
+2026-03-22,Zapatos,180000,90000,5,Elena,Calzado
+2026-01-13,Zapatos,180000,90000,19,Lucia,Calzado
+2026-03-05,Zapatos,180000,90000,2,Marta,Calzado
+2026-02-15,Zapatos,180000,90000,3,Jorge,Calzado
+2026-02-28,Accesorios,40000,15000,12,Luis,Complementos
+2026-03-19,Chaqueta,220000,110000,15,Luis,Invierno
+2026-03-16,Jeans,120000,60000,6,Luis,Ropa Inferior
+2026-02-10,Jeans,120000,60000,16,Elena,Ropa Inferior
+2026-02-24,Zapatos,180000,90000,7,Jorge,Calzado
+2026-03-20,Accesorios,40000,15000,14,Carlos,Complementos
+2026-02-02,Zapatos,180000,90000,2,Jorge,Calzado
+2026-03-29,Camiseta,50000,20000,18,Pedro,Ropa Superior
+2026-02-15,Camiseta,50000,20000,4,Elena,Ropa Superior
+2026-03-25,Chaqueta,220000,110000,8,Luis,Invierno
+2026-01-01,Camiseta,50000,20000,15,Carlos,Ropa Superior
+2026-01-23,Jeans,120000,60000,19,Jorge,Ropa Inferior
+2026-01-17,Zapatos,180000,90000,16,Lucia,Calzado
+2026-02-18,Accesorios,40000,15000,10,Carlos,Complementos
+2026-01-25,Chaqueta,220000,110000,7,Elena,Invierno
+2026-03-04,Accesorios,40000,15000,2,Marta,Complementos
+2026-02-17,Zapatos,180000,90000,13,Elena,Calzado
+2026-01-19,Chaqueta,220000,110000,17,Lucia,Invierno
+2026-03-15,Chaqueta,220000,110000,17,Ana,Invierno
+2026-01-16,Camiseta,50000,20000,9,Jorge,Ropa Superior
+2026-03-02,Accesorios,40000,15000,5,Ana,Complementos
+2026-02-02,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-01-05,Zapatos,180000,90000,14,Lucia,Calzado
+2026-01-24,Zapatos,180000,90000,15,Luis,Calzado
+2026-01-08,Camiseta,50000,20000,9,Carlos,Ropa Superior
+2026-03-13,Camiseta,50000,20000,14,Pedro,Ropa Superior
+2026-02-18,Camiseta,50000,20000,11,Jorge,Ropa Superior
+2026-01-18,Chaqueta,220000,110000,15,Carlos,Invierno
+2026-03-05,Chaqueta,220000,110000,4,Jorge,Invierno
+2026-01-27,Camiseta,50000,20000,17,Jorge,Ropa Superior
+2026-03-25,Camiseta,50000,20000,4,Carlos,Ropa Superior
+2026-01-24,Camiseta,50000,20000,3,Carlos,Ropa Superior
+2026-03-25,Chaqueta,220000,110000,11,Elena,Invierno
+2026-03-19,Camiseta,50000,20000,14,Elena,Ropa Superior
+2026-01-09,Zapatos,180000,90000,16,Carlos,Calzado
+2026-03-23,Camiseta,50000,20000,8,Marta,Ropa Superior
+2026-03-20,Accesorios,40000,15000,7,Carlos,Complementos
+2026-03-28,Jeans,120000,60000,7,Jorge,Ropa Inferior
+2026-01-30,Camiseta,50000,20000,16,Jorge,Ropa Superior
+2026-02-23,Jeans,120000,60000,2,Lucia,Ropa Inferior
+2026-02-09,Accesorios,40000,15000,15,Pedro,Complementos
+2026-01-02,Jeans,120000,60000,13,Jorge,Ropa Inferior
+2026-02-25,Jeans,120000,60000,4,Luis,Ropa Inferior
+2026-01-25,Chaqueta,220000,110000,4,Lucia,Invierno
+2026-03-10,Zapatos,180000,90000,4,Ana,Calzado
+2026-02-10,Jeans,120000,60000,15,Carlos,Ropa Inferior
+2026-02-21,Camiseta,50000,20000,11,Luis,Ropa Superior
+2026-03-07,Jeans,120000,60000,5,Marta,Ropa Inferior
+2026-03-06,Chaqueta,220000,110000,19,Elena,Invierno
+2026-02-07,Jeans,120000,60000,16,Elena,Ropa Inferior
+2026-01-08,Chaqueta,220000,110000,19,Carlos,Invierno
+2026-02-18,Accesorios,40000,15000,6,Lucia,Complementos
+2026-03-21,Chaqueta,220000,110000,16,Luis,Invierno
+2026-01-04,Chaqueta,220000,110000,2,Lucia,Invierno
+2026-03-08,Zapatos,180000,90000,13,Jorge,Calzado
+2026-02-03,Zapatos,180000,90000,5,Luis,Calzado
+2026-01-07,Camiseta,50000,20000,12,Luis,Ropa Superior
+2026-02-26,Zapatos,180000,90000,13,Elena,Calzado
+2026-03-07,Accesorios,40000,15000,3,Elena,Complementos
+2026-01-04,Zapatos,180000,90000,5,Lucia,Calzado
+2026-01-02,Chaqueta,220000,110000,8,Jorge,Invierno
+2026-03-01,Zapatos,180000,90000,11,Pedro,Calzado
+2026-03-27,Zapatos,180000,90000,18,Lucia,Calzado
+2026-01-30,Jeans,120000,60000,2,Luis,Ropa Inferior
+2026-01-25,Camiseta,50000,20000,10,Jorge,Ropa Superior
+2026-03-09,Camiseta,50000,20000,2,Ana,Ropa Superior
+2026-02-16,Jeans,120000,60000,3,Ana,Ropa Inferior
+2026-03-09,Camiseta,50000,20000,18,Jorge,Ropa Superior
+2026-01-25,Accesorios,40000,15000,11,Ana,Complementos
+2026-02-17,Zapatos,180000,90000,2,Luis,Calzado
+2026-02-21,Camiseta,50000,20000,10,Pedro,Ropa Superior
+2026-02-15,Accesorios,40000,15000,5,Luis,Complementos
+2026-02-11,Accesorios,40000,15000,10,Marta,Complementos
+2026-03-12,Zapatos,180000,90000,18,Elena,Calzado
+2026-02-05,Camiseta,50000,20000,14,Jorge,Ropa Superior
+2026-02-03,Camiseta,50000,20000,1,Luis,Ropa Superior
+2026-03-21,Zapatos,180000,90000,15,Lucia,Calzado
+2026-01-13,Camiseta,50000,20000,17,Ana,Ropa Superior
+2026-03-20,Chaqueta,220000,110000,11,Pedro,Invierno
+2026-03-11,Jeans,120000,60000,3,Marta,Ropa Inferior
+2026-03-07,Camiseta,50000,20000,11,Jorge,Ropa Superior
+2026-03-12,Zapatos,180000,90000,4,Luis,Calzado
+2026-03-09,Zapatos,180000,90000,13,Ana,Calzado
+2026-01-22,Camiseta,50000,20000,17,Marta,Ropa Superior
+2026-02-16,Zapatos,180000,90000,18,Luis,Calzado
+2026-03-15,Accesorios,40000,15000,2,Jorge,Complementos
+2026-03-26,Jeans,120000,60000,14,Pedro,Ropa Inferior
+2026-02-09,Chaqueta,220000,110000,13,Carlos,Invierno
+2026-02-26,Zapatos,180000,90000,1,Lucia,Calzado
+2026-01-05,Chaqueta,220000,110000,10,Pedro,Invierno
+2026-02-23,Chaqueta,220000,110000,6,Carlos,Invierno
+2026-02-16,Jeans,120000,60000,8,Luis,Ropa Inferior
+2026-01-31,Jeans,120000,60000,18,Elena,Ropa Inferior
+2026-02-11,Chaqueta,220000,110000,18,Jorge,Invierno
+2026-01-01,Jeans,120000,60000,12,Ana,Ropa Inferior
+2026-01-30,Jeans,120000,60000,14,Luis,Ropa Inferior
+2026-01-20,Jeans,120000,60000,18,Carlos,Ropa Inferior
+2026-02-04,Zapatos,180000,90000,10,Elena,Calzado
+2026-03-04,Zapatos,180000,90000,19,Marta,Calzado
+2026-02-06,Camiseta,50000,20000,1,Carlos,Ropa Superior
+2026-02-23,Chaqueta,220000,110000,12,Elena,Invierno
+2026-03-07,Jeans,120000,60000,3,Jorge,Ropa Inferior
+2026-03-26,Accesorios,40000,15000,19,Elena,Complementos
+2026-02-10,Jeans,120000,60000,7,Pedro,Ropa Inferior
+2026-02-28,Zapatos,180000,90000,17,Pedro,Calzado
+2026-03-21,Zapatos,180000,90000,6,Jorge,Calzado
+2026-02-09,Accesorios,40000,15000,8,Pedro,Complementos
+2026-03-12,Camiseta,50000,20000,16,Jorge,Ropa Superior
+2026-01-10,Chaqueta,220000,110000,2,Marta,Invierno
+2026-01-28,Zapatos,180000,90000,15,Luis,Calzado
+2026-02-09,Jeans,120000,60000,11,Jorge,Ropa Inferior
+2026-03-15,Chaqueta,220000,110000,13,Pedro,Invierno
+2026-03-19,Chaqueta,220000,110000,4,Elena,Invierno
+2026-03-17,Chaqueta,220000,110000,9,Luis,Invierno
+2026-02-19,Chaqueta,220000,110000,15,Jorge,Invierno
+2026-01-16,Chaqueta,220000,110000,12,Lucia,Invierno
+2026-01-22,Camiseta,50000,20000,11,Lucia,Ropa Superior
+2026-02-12,Jeans,120000,60000,6,Carlos,Ropa Inferior
+2026-02-09,Camiseta,50000,20000,10,Marta,Ropa Superior
+2026-01-02,Accesorios,40000,15000,5,Marta,Complementos
+2026-02-18,Accesorios,40000,15000,14,Marta,Complementos
+2026-01-30,Accesorios,40000,15000,5,Elena,Complementos
+2026-03-19,Accesorios,40000,15000,10,Lucia,Complementos
+2026-01-05,Camiseta,50000,20000,18,Jorge,Ropa Superior
+2026-03-08,Accesorios,40000,15000,9,Jorge,Complementos
+2026-02-14,Jeans,120000,60000,1,Lucia,Ropa Inferior
+2026-03-10,Jeans,120000,60000,6,Jorge,Ropa Inferior
+2026-03-24,Accesorios,40000,15000,13,Ana,Complementos
+2026-03-22,Accesorios,40000,15000,9,Elena,Complementos
+2026-02-06,Camiseta,50000,20000,19,Elena,Ropa Superior
+2026-02-17,Camiseta,50000,20000,16,Marta,Ropa Superior
+2026-02-10,Camiseta,50000,20000,15,Ana,Ropa Superior
+2026-01-07,Chaqueta,220000,110000,1,Marta,Invierno
+2026-02-04,Jeans,120000,60000,13,Lucia,Ropa Inferior
+2026-03-24,Camiseta,50000,20000,8,Lucia,Ropa Superior
+2026-02-06,Camiseta,50000,20000,15,Carlos,Ropa Superior
+2026-01-20,Accesorios,40000,15000,12,Luis,Complementos
+2026-02-23,Jeans,120000,60000,18,Elena,Ropa Inferior
+2026-02-21,Camiseta,50000,20000,2,Luis,Ropa Superior
+2026-01-24,Chaqueta,220000,110000,12,Ana,Invierno
+2026-02-04,Accesorios,40000,15000,7,Elena,Complementos
+2026-03-18,Camiseta,50000,20000,10,Pedro,Ropa Superior
+2026-01-05,Accesorios,40000,15000,10,Ana,Complementos
+2026-03-19,Camiseta,50000,20000,6,Marta,Ropa Superior
+2026-01-23,Accesorios,40000,15000,18,Pedro,Complementos
+2026-02-06,Zapatos,180000,90000,7,Elena,Calzado
+2026-02-15,Zapatos,180000,90000,4,Lucia,Calzado
+2026-01-21,Zapatos,180000,90000,15,Elena,Calzado
+2026-02-26,Zapatos,180000,90000,4,Luis,Calzado
+2026-01-22,Jeans,120000,60000,1,Pedro,Ropa Inferior
+2026-02-18,Accesorios,40000,15000,10,Ana,Complementos
+2026-02-21,Accesorios,40000,15000,9,Luis,Complementos
+2026-01-22,Accesorios,40000,15000,4,Elena,Complementos
+2026-02-06,Jeans,120000,60000,17,Pedro,Ropa Inferior
+2026-02-26,Accesorios,40000,15000,20,Carlos,Complementos
+2026-01-20,Accesorios,40000,15000,9,Jorge,Complementos
+2026-01-02,Chaqueta,220000,110000,12,Ana,Invierno
+2026-03-13,Jeans,120000,60000,13,Carlos,Ropa Inferior
+2026-01-08,Camiseta,50000,20000,18,Carlos,Ropa Superior
+2026-01-07,Zapatos,180000,90000,8,Ana,Calzado
+2026-01-16,Zapatos,180000,90000,4,Marta,Calzado
+2026-03-01,Camiseta,50000,20000,10,Luis,Ropa Superior
+2026-03-21,Jeans,120000,60000,3,Pedro,Ropa Inferior
+2026-03-22,Chaqueta,220000,110000,16,Pedro,Invierno
+2026-02-20,Zapatos,180000,90000,11,Elena,Calzado
+2026-01-13,Chaqueta,220000,110000,18,Luis,Invierno
+2026-01-02,Zapatos,180000,90000,12,Jorge,Calzado
+2026-01-25,Accesorios,40000,15000,5,Carlos,Complementos
+2026-03-18,Zapatos,180000,90000,17,Lucia,Calzado
+2026-01-26,Zapatos,180000,90000,8,Luis,Calzado
+2026-01-06,Chaqueta,220000,110000,5,Lucia,Invierno
+2026-03-29,Accesorios,40000,15000,6,Pedro,Complementos
+2026-02-12,Chaqueta,220000,110000,18,Pedro,Invierno
+2026-02-15,Zapatos,180000,90000,18,Luis,Calzado
+2026-02-14,Chaqueta,220000,110000,19,Marta,Invierno
+2026-03-14,Camiseta,50000,20000,20,Carlos,Ropa Superior
+2026-02-28,Zapatos,180000,90000,17,Elena,Calzado
+2026-02-10,Accesorios,40000,15000,1,Luis,Complementos
+2026-03-08,Zapatos,180000,90000,16,Jorge,Calzado
+2026-01-29,Chaqueta,220000,110000,2,Elena,Invierno
+2026-01-01,Camiseta,50000,20000,16,Luis,Ropa Superior
+2026-02-28,Accesorios,40000,15000,1,Pedro,Complementos
+2026-02-23,Camiseta,50000,20000,2,Luis,Ropa Superior
+2026-02-19,Accesorios,40000,15000,1,Pedro,Complementos
+2026-03-31,Chaqueta,220000,110000,4,Ana,Invierno
+2026-02-22,Zapatos,180000,90000,17,Pedro,Calzado
+2026-03-25,Zapatos,180000,90000,17,Jorge,Calzado
+2026-01-14,Chaqueta,220000,110000,10,Pedro,Invierno
+2026-03-13,Zapatos,180000,90000,9,Carlos,Calzado
+2026-03-09,Chaqueta,220000,110000,14,Marta,Invierno
+2026-02-12,Chaqueta,220000,110000,20,Elena,Invierno
+2026-02-18,Chaqueta,220000,110000,12,Elena,Invierno
+2026-02-07,Accesorios,40000,15000,3,Marta,Complementos
+2026-01-10,Camiseta,50000,20000,2,Elena,Ropa Superior
+2026-02-16,Camiseta,50000,20000,3,Ana,Ropa Superior
+2026-01-31,Camiseta,50000,20000,4,Ana,Ropa Superior
+2026-02-18,Camiseta,50000,20000,11,Elena,Ropa Superior
+2026-02-18,Chaqueta,220000,110000,12,Jorge,Invierno
+2026-03-20,Chaqueta,220000,110000,18,Ana,Invierno
+2026-02-13,Jeans,120000,60000,11,Pedro,Ropa Inferior
+2026-01-08,Accesorios,40000,15000,20,Carlos,Complementos
+2026-03-12,Chaqueta,220000,110000,7,Marta,Invierno
+2026-03-19,Chaqueta,220000,110000,1,Jorge,Invierno
+2026-03-01,Zapatos,180000,90000,6,Marta,Calzado
+2026-02-16,Chaqueta,220000,110000,1,Marta,Invierno
+2026-02-20,Accesorios,40000,15000,1,Lucia,Complementos
+2026-02-05,Camiseta,50000,20000,1,Ana,Ropa Superior
+2026-02-19,Camiseta,50000,20000,13,Carlos,Ropa Superior
+2026-03-31,Zapatos,180000,90000,12,Luis,Calzado
+2026-03-15,Zapatos,180000,90000,19,Luis,Calzado
+2026-03-17,Camiseta,50000,20000,1,Marta,Ropa Superior
+2026-01-09,Chaqueta,220000,110000,7,Luis,Invierno
+2026-01-30,Jeans,120000,60000,12,Ana,Ropa Inferior
+2026-03-07,Camiseta,50000,20000,7,Pedro,Ropa Superior
+2026-01-18,Camiseta,50000,20000,12,Ana,Ropa Superior
+2026-01-26,Zapatos,180000,90000,20,Lucia,Calzado
+2026-02-07,Zapatos,180000,90000,11,Marta,Calzado
+2026-03-31,Jeans,120000,60000,3,Ana,Ropa Inferior
+2026-03-10,Camiseta,50000,20000,7,Carlos,Ropa Superior
+2026-03-28,Chaqueta,220000,110000,18,Jorge,Invierno
+2026-01-11,Chaqueta,220000,110000,3,Marta,Invierno
+2026-02-09,Accesorios,40000,15000,11,Carlos,Complementos
+2026-02-07,Chaqueta,220000,110000,19,Lucia,Invierno
+2026-03-01,Jeans,120000,60000,14,Carlos,Ropa Inferior
+2026-01-07,Jeans,120000,60000,13,Marta,Ropa Inferior
+2026-03-15,Jeans,120000,60000,3,Luis,Ropa Inferior
+2026-02-22,Zapatos,180000,90000,3,Marta,Calzado
+2026-02-01,Zapatos,180000,90000,10,Marta,Calzado
+2026-03-09,Accesorios,40000,15000,16,Carlos,Complementos
+2026-03-18,Jeans,120000,60000,13,Lucia,Ropa Inferior
+2026-02-24,Chaqueta,220000,110000,16,Marta,Invierno
+2026-01-02,Zapatos,180000,90000,5,Pedro,Calzado
+2026-03-15,Chaqueta,220000,110000,7,Lucia,Invierno
+2026-01-30,Chaqueta,220000,110000,20,Luis,Invierno
+2026-01-13,Camiseta,50000,20000,10,Ana,Ropa Superior
+2026-03-01,Zapatos,180000,90000,5,Ana,Calzado
+2026-02-01,Accesorios,40000,15000,16,Ana,Complementos
+2026-03-23,Zapatos,180000,90000,16,Carlos,Calzado
+2026-01-29,Accesorios,40000,15000,13,Marta,Complementos
+2026-01-18,Chaqueta,220000,110000,3,Elena,Invierno
+2026-03-28,Chaqueta,220000,110000,13,Pedro,Invierno
+2026-02-13,Chaqueta,220000,110000,5,Ana,Invierno
+2026-01-11,Jeans,120000,60000,18,Luis,Ropa Inferior
+2026-03-29,Jeans,120000,60000,5,Marta,Ropa Inferior
+2026-02-01,Camiseta,50000,20000,8,Marta,Ropa Superior
+2026-01-06,Zapatos,180000,90000,12,Lucia,Calzado
+2026-02-14,Jeans,120000,60000,16,Luis,Ropa Inferior
+2026-01-26,Camiseta,50000,20000,1,Ana,Ropa Superior
+2026-04-01,Zapatos,180000,90000,10,Luis,Calzado
+2026-03-19,Chaqueta,220000,110000,12,Lucia,Invierno
+2026-02-27,Jeans,120000,60000,6,Luis,Ropa Inferior
+2026-02-22,Accesorios,40000,15000,10,Ana,Complementos
+2026-03-20,Zapatos,180000,90000,18,Marta,Calzado
+2026-01-11,Jeans,120000,60000,4,Luis,Ropa Inferior
+2026-01-22,Zapatos,180000,90000,6,Lucia,Calzado
+2026-02-05,Chaqueta,220000,110000,18,Ana,Invierno
+2026-01-09,Jeans,120000,60000,10,Pedro,Ropa Inferior
+2026-01-08,Camiseta,50000,20000,6,Carlos,Ropa Superior
+2026-01-08,Accesorios,40000,15000,5,Luis,Complementos
+2026-03-30,Zapatos,180000,90000,7,Elena,Calzado
+2026-02-01,Jeans,120000,60000,16,Lucia,Ropa Inferior
+2026-01-30,Zapatos,180000,90000,20,Carlos,Calzado
+2026-03-27,Jeans,120000,60000,2,Pedro,Ropa Inferior
+2026-03-14,Jeans,120000,60000,8,Luis,Ropa Inferior
+2026-01-18,Jeans,120000,60000,13,Jorge,Ropa Inferior
+2026-01-04,Chaqueta,220000,110000,2,Lucia,Invierno
+2026-03-27,Accesorios,40000,15000,20,Lucia,Complementos
+2026-01-10,Zapatos,180000,90000,16,Luis,Calzado
+2026-01-04,Jeans,120000,60000,7,Carlos,Ropa Inferior
+2026-03-23,Chaqueta,220000,110000,20,Pedro,Invierno
+2026-01-06,Zapatos,180000,90000,18,Marta,Calzado
+2026-02-07,Accesorios,40000,15000,12,Elena,Complementos
+2026-01-29,Camiseta,50000,20000,16,Lucia,Ropa Superior
+2026-01-04,Chaqueta,220000,110000,4,Pedro,Invierno
+2026-01-26,Jeans,120000,60000,16,Carlos,Ropa Inferior
+2026-01-15,Camiseta,50000,20000,7,Luis,Ropa Superior
+2026-01-16,Jeans,120000,60000,12,Lucia,Ropa Inferior
+2026-01-13,Jeans,120000,60000,17,Pedro,Ropa Inferior
+2026-01-14,Accesorios,40000,15000,9,Carlos,Complementos
+2026-03-23,Accesorios,40000,15000,4,Pedro,Complementos
+2026-01-01,Accesorios,40000,15000,11,Elena,Complementos
+2026-02-10,Chaqueta,220000,110000,6,Jorge,Invierno
+2026-03-24,Camiseta,50000,20000,6,Elena,Ropa Superior
+2026-02-18,Camiseta,50000,20000,9,Pedro,Ropa Superior
+2026-03-08,Chaqueta,220000,110000,13,Luis,Invierno
+2026-01-02,Zapatos,180000,90000,6,Lucia,Calzado
+2026-02-27,Chaqueta,220000,110000,4,Elena,Invierno
+2026-03-23,Jeans,120000,60000,9,Luis,Ropa Inferior
+2026-02-16,Zapatos,180000,90000,1,Pedro,Calzado
+2026-01-20,Camiseta,50000,20000,20,Pedro,Ropa Superior
+2026-02-08,Chaqueta,220000,110000,16,Lucia,Invierno
+2026-02-13,Zapatos,180000,90000,9,Ana,Calzado
+2026-01-27,Camiseta,50000,20000,7,Marta,Ropa Superior
+2026-03-18,Zapatos,180000,90000,10,Elena,Calzado
+2026-01-22,Accesorios,40000,15000,16,Pedro,Complementos
+2026-02-16,Chaqueta,220000,110000,19,Lucia,Invierno
+2026-01-14,Accesorios,40000,15000,4,Lucia,Complementos
+2026-03-03,Camiseta,50000,20000,2,Pedro,Ropa Superior
+2026-02-09,Accesorios,40000,15000,20,Carlos,Complementos
+2026-02-05,Camiseta,50000,20000,14,Elena,Ropa Superior
+2026-03-13,Zapatos,180000,90000,7,Lucia,Calzado
+2026-02-07,Jeans,120000,60000,9,Pedro,Ropa Inferior
+2026-03-13,Chaqueta,220000,110000,12,Elena,Invierno
+2026-02-19,Accesorios,40000,15000,17,Ana,Complementos
+2026-01-22,Jeans,120000,60000,3,Lucia,Ropa Inferior
+2026-02-19,Chaqueta,220000,110000,9,Jorge,Invierno
+2026-02-28,Accesorios,40000,15000,19,Carlos,Complementos
+2026-03-23,Camiseta,50000,20000,16,Pedro,Ropa Superior
+2026-01-02,Accesorios,40000,15000,12,Lucia,Complementos
+2026-01-05,Accesorios,40000,15000,12,Marta,Complementos
+2026-03-18,Zapatos,180000,90000,5,Ana,Calzado
+2026-03-01,Jeans,120000,60000,7,Carlos,Ropa Inferior
+2026-03-20,Jeans,120000,60000,6,Ana,Ropa Inferior
+2026-03-23,Camiseta,50000,20000,17,Lucia,Ropa Superior
+2026-03-27,Chaqueta,220000,110000,6,Luis,Invierno
+2026-01-24,Accesorios,40000,15000,7,Ana,Complementos
+2026-01-13,Zapatos,180000,90000,11,Jorge,Calzado
+2026-03-20,Accesorios,40000,15000,7,Luis,Complementos
+2026-03-25,Camiseta,50000,20000,19,Carlos,Ropa Superior
+2026-03-04,Jeans,120000,60000,12,Pedro,Ropa Inferior
+2026-02-20,Camiseta,50000,20000,13,Luis,Ropa Superior
+2026-03-30,Zapatos,180000,90000,18,Carlos,Calzado
+2026-03-30,Jeans,120000,60000,11,Marta,Ropa Inferior
+2026-02-27,Chaqueta,220000,110000,9,Elena,Invierno
+2026-03-08,Chaqueta,220000,110000,12,Pedro,Invierno
+2026-02-20,Jeans,120000,60000,5,Ana,Ropa Inferior
+2026-01-04,Chaqueta,220000,110000,5,Lucia,Invierno
+2026-01-13,Camiseta,50000,20000,17,Ana,Ropa Superior
+2026-03-10,Accesorios,40000,15000,12,Pedro,Complementos
+2026-02-14,Zapatos,180000,90000,6,Pedro,Calzado
+2026-03-23,Camiseta,50000,20000,13,Elena,Ropa Superior
+2026-01-05,Chaqueta,220000,110000,2,Jorge,Invierno
+2026-01-05,Chaqueta,220000,110000,9,Lucia,Invierno
+2026-03-20,Zapatos,180000,90000,19,Marta,Calzado
+2026-03-21,Chaqueta,220000,110000,18,Marta,Invierno
+2026-03-22,Camiseta,50000,20000,10,Marta,Ropa Superior
+2026-02-09,Camiseta,50000,20000,16,Elena,Ropa Superior
+2026-03-29,Zapatos,180000,90000,15,Elena,Calzado
+2026-02-18,Chaqueta,220000,110000,2,Luis,Invierno
+2026-01-08,Camiseta,50000,20000,16,Lucia,Ropa Superior
+2026-01-30,Zapatos,180000,90000,11,Ana,Calzado
+2026-02-06,Accesorios,40000,15000,5,Ana,Complementos
+2026-01-16,Accesorios,40000,15000,3,Luis,Complementos
+2026-02-14,Accesorios,40000,15000,5,Luis,Complementos
+2026-03-21,Jeans,120000,60000,13,Luis,Ropa Inferior
+2026-01-03,Chaqueta,220000,110000,11,Luis,Invierno
+2026-03-03,Accesorios,40000,15000,1,Pedro,Complementos
+2026-02-27,Jeans,120000,60000,6,Luis,Ropa Inferior
+2026-02-09,Zapatos,180000,90000,5,Luis,Calzado
+2026-01-18,Jeans,120000,60000,8,Ana,Ropa Inferior
+2026-03-17,Accesorios,40000,15000,10,Jorge,Complementos
+2026-01-28,Jeans,120000,60000,1,Jorge,Ropa Inferior
+2026-02-10,Zapatos,180000,90000,8,Elena,Calzado
+2026-02-01,Zapatos,180000,90000,8,Luis,Calzado
+2026-03-01,Camiseta,50000,20000,12,Ana,Ropa Superior
+2026-02-21,Camiseta,50000,20000,9,Ana,Ropa Superior
+2026-02-01,Chaqueta,220000,110000,17,Carlos,Invierno
+2026-01-05,Accesorios,40000,15000,11,Ana,Complementos
+2026-01-11,Zapatos,180000,90000,1,Carlos,Calzado
+2026-03-07,Jeans,120000,60000,7,Jorge,Ropa Inferior
+2026-03-03,Chaqueta,220000,110000,20,Ana,Invierno
+2026-03-11,Zapatos,180000,90000,8,Jorge,Calzado
+2026-02-09,Chaqueta,220000,110000,2,Elena,Invierno
+2026-03-29,Camiseta,50000,20000,10,Marta,Ropa Superior
+2026-02-12,Camiseta,50000,20000,16,Pedro,Ropa Superior
+2026-01-16,Jeans,120000,60000,17,Jorge,Ropa Inferior
+2026-01-26,Jeans,120000,60000,8,Jorge,Ropa Inferior
+2026-03-21,Jeans,120000,60000,2,Luis,Ropa Inferior
+2026-03-13,Camiseta,50000,20000,8,Elena,Ropa Superior
+2026-01-04,Jeans,120000,60000,11,Carlos,Ropa Inferior
+2026-02-17,Zapatos,180000,90000,13,Jorge,Calzado
+2026-01-14,Jeans,120000,60000,18,Pedro,Ropa Inferior
+2026-03-27,Jeans,120000,60000,3,Luis,Ropa Inferior
+2026-02-04,Chaqueta,220000,110000,12,Marta,Invierno
+2026-02-12,Zapatos,180000,90000,13,Lucia,Calzado
+2026-01-09,Zapatos,180000,90000,6,Lucia,Calzado
+2026-03-01,Camiseta,50000,20000,20,Carlos,Ropa Superior
+2026-01-27,Camiseta,50000,20000,8,Luis,Ropa Superior
+2026-02-21,Chaqueta,220000,110000,14,Luis,Invierno
+2026-01-16,Camiseta,50000,20000,17,Luis,Ropa Superior
+2026-03-09,Jeans,120000,60000,4,Elena,Ropa Inferior
+2026-03-08,Accesorios,40000,15000,12,Jorge,Complementos
+2026-03-22,Chaqueta,220000,110000,13,Carlos,Invierno
+2026-02-11,Accesorios,40000,15000,19,Pedro,Complementos
+2026-02-22,Camiseta,50000,20000,3,Pedro,Ropa Superior
+2026-01-12,Chaqueta,220000,110000,17,Pedro,Invierno
+2026-02-13,Accesorios,40000,15000,15,Pedro,Complementos
+2026-01-17,Jeans,120000,60000,9,Jorge,Ropa Inferior
+2026-01-04,Accesorios,40000,15000,15,Elena,Complementos
+2026-01-06,Jeans,120000,60000,5,Luis,Ropa Inferior
+2026-01-21,Accesorios,40000,15000,17,Lucia,Complementos
+2026-03-01,Camiseta,50000,20000,9,Luis,Ropa Superior
+2026-02-06,Chaqueta,220000,110000,4,Pedro,Invierno
+2026-01-20,Jeans,120000,60000,6,Jorge,Ropa Inferior
+2026-03-11,Jeans,120000,60000,10,Marta,Ropa Inferior
+2026-01-24,Camiseta,50000,20000,18,Elena,Ropa Superior
+2026-03-31,Zapatos,180000,90000,4,Elena,Calzado
+2026-02-28,Chaqueta,220000,110000,19,Carlos,Invierno
+2026-02-19,Camiseta,50000,20000,12,Pedro,Ropa Superior
+2026-03-15,Camiseta,50000,20000,10,Jorge,Ropa Superior
+2026-01-08,Accesorios,40000,15000,3,Jorge,Complementos
+2026-01-03,Chaqueta,220000,110000,3,Carlos,Invierno
+2026-01-07,Jeans,120000,60000,8,Carlos,Ropa Inferior
+2026-03-26,Camiseta,50000,20000,13,Carlos,Ropa Superior
+2026-01-15,Jeans,120000,60000,16,Lucia,Ropa Inferior
+2026-01-20,Accesorios,40000,15000,9,Lucia,Complementos
+2026-01-01,Chaqueta,220000,110000,1,Marta,Invierno
+2026-03-04,Chaqueta,220000,110000,1,Jorge,Invierno
+2026-03-12,Accesorios,40000,15000,11,Lucia,Complementos
+2026-01-11,Jeans,120000,60000,4,Lucia,Ropa Inferior
+2026-02-11,Chaqueta,220000,110000,16,Marta,Invierno
+2026-02-20,Camiseta,50000,20000,15,Marta,Ropa Superior
+2026-02-10,Accesorios,40000,15000,18,Carlos,Complementos
+2026-01-27,Accesorios,40000,15000,13,Jorge,Complementos
+2026-01-02,Jeans,120000,60000,7,Ana,Ropa Inferior
+2026-02-23,Accesorios,40000,15000,18,Jorge,Complementos
+2026-03-27,Chaqueta,220000,110000,11,Lucia,Invierno
+2026-03-26,Camiseta,50000,20000,9,Pedro,Ropa Superior
+2026-01-26,Accesorios,40000,15000,1,Elena,Complementos
+2026-01-05,Jeans,120000,60000,14,Jorge,Ropa Inferior
+2026-01-05,Jeans,120000,60000,20,Luis,Ropa Inferior
+2026-02-15,Accesorios,40000,15000,9,Lucia,Complementos
+2026-03-15,Chaqueta,220000,110000,1,Elena,Invierno
+2026-02-20,Chaqueta,220000,110000,7,Pedro,Invierno
+2026-02-13,Jeans,120000,60000,8,Ana,Ropa Inferior
+2026-02-04,Chaqueta,220000,110000,5,Lucia,Invierno
+2026-01-16,Accesorios,40000,15000,17,Ana,Complementos
+2026-03-22,Chaqueta,220000,110000,1,Marta,Invierno
+2026-03-25,Chaqueta,220000,110000,10,Luis,Invierno
+2026-02-07,Jeans,120000,60000,3,Jorge,Ropa Inferior
+2026-02-26,Chaqueta,220000,110000,7,Carlos,Invierno
+2026-02-03,Chaqueta,220000,110000,3,Ana,Invierno
+2026-01-22,Jeans,120000,60000,9,Carlos,Ropa Inferior
+2026-02-03,Accesorios,40000,15000,7,Ana,Complementos
+2026-03-21,Chaqueta,220000,110000,7,Luis,Invierno
+2026-01-11,Camiseta,50000,20000,7,Pedro,Ropa Superior
+2026-01-22,Accesorios,40000,15000,10,Pedro,Complementos
+2026-02-24,Camiseta,50000,20000,20,Lucia,Ropa Superior
+2026-03-08,Zapatos,180000,90000,2,Pedro,Calzado
+2026-03-11,Chaqueta,220000,110000,11,Luis,Invierno
+2026-03-09,Zapatos,180000,90000,14,Pedro,Calzado
+2026-02-14,Accesorios,40000,15000,15,Pedro,Complementos
+2026-03-16,Accesorios,40000,15000,12,Carlos,Complementos
+2026-02-17,Zapatos,180000,90000,7,Ana,Calzado
+2026-03-07,Camiseta,50000,20000,18,Elena,Ropa Superior
+2026-01-13,Jeans,120000,60000,6,Carlos,Ropa Inferior
+2026-03-10,Accesorios,40000,15000,11,Lucia,Complementos
+2026-02-14,Camiseta,50000,20000,1,Marta,Ropa Superior
+2026-03-21,Zapatos,180000,90000,18,Jorge,Calzado
+2026-03-19,Jeans,120000,60000,6,Elena,Ropa Inferior
+2026-03-23,Camiseta,50000,20000,17,Jorge,Ropa Superior
+2026-01-10,Jeans,120000,60000,16,Jorge,Ropa Inferior
+2026-02-09,Accesorios,40000,15000,4,Lucia,Complementos
+2026-03-07,Chaqueta,220000,110000,12,Carlos,Invierno
+2026-01-21,Zapatos,180000,90000,1,Jorge,Calzado
+2026-03-06,Chaqueta,220000,110000,2,Carlos,Invierno
+2026-01-29,Camiseta,50000,20000,11,Lucia,Ropa Superior
+2026-03-01,Zapatos,180000,90000,10,Carlos,Calzado
+2026-01-09,Chaqueta,220000,110000,12,Ana,Invierno
+2026-03-27,Accesorios,40000,15000,8,Marta,Complementos
+2026-01-23,Zapatos,180000,90000,11,Luis,Calzado
+2026-03-13,Chaqueta,220000,110000,1,Marta,Invierno
+2026-02-24,Camiseta,50000,20000,1,Luis,Ropa Superior
+2026-03-01,Camiseta,50000,20000,7,Pedro,Ropa Superior
+2026-01-15,Camiseta,50000,20000,12,Luis,Ropa Superior
+2026-02-13,Camiseta,50000,20000,19,Marta,Ropa Superior
+2026-01-15,Zapatos,180000,90000,12,Elena,Calzado
+2026-02-08,Chaqueta,220000,110000,8,Ana,Invierno
+2026-03-07,Accesorios,40000,15000,4,Carlos,Complementos
+2026-03-03,Zapatos,180000,90000,1,Carlos,Calzado
+2026-01-04,Camiseta,50000,20000,2,Ana,Ropa Superior
+2026-01-04,Chaqueta,220000,110000,19,Pedro,Invierno
+2026-01-18,Camiseta,50000,20000,18,Pedro,Ropa Superior
+2026-03-25,Chaqueta,220000,110000,7,Elena,Invierno
+2026-02-27,Accesorios,40000,15000,20,Luis,Complementos
+2026-02-13,Chaqueta,220000,110000,18,Pedro,Invierno
+2026-01-20,Accesorios,40000,15000,10,Luis,Complementos
+2026-03-27,Jeans,120000,60000,16,Luis,Ropa Inferior
+2026-03-25,Zapatos,180000,90000,10,Jorge,Calzado
+2026-03-01,Camiseta,50000,20000,1,Pedro,Ropa Superior
+2026-01-10,Zapatos,180000,90000,7,Carlos,Calzado
+2026-03-22,Zapatos,180000,90000,2,Marta,Calzado
+2026-01-05,Chaqueta,220000,110000,16,Jorge,Invierno
+2026-03-10,Accesorios,40000,15000,4,Elena,Complementos
+2026-01-07,Camiseta,50000,20000,17,Jorge,Ropa Superior
+2026-01-15,Chaqueta,220000,110000,12,Jorge,Invierno
+2026-01-03,Chaqueta,220000,110000,7,Jorge,Invierno
+2026-02-12,Camiseta,50000,20000,20,Elena,Ropa Superior
+2026-03-20,Jeans,120000,60000,2,Elena,Ropa Inferior
+2026-01-29,Chaqueta,220000,110000,1,Elena,Invierno
+2026-01-13,Zapatos,180000,90000,4,Marta,Calzado
+2026-04-01,Accesorios,40000,15000,14,Elena,Complementos
+2026-03-26,Jeans,120000,60000,11,Ana,Ropa Inferior
+2026-02-20,Chaqueta,220000,110000,1,Carlos,Invierno
+2026-02-06,Camiseta,50000,20000,3,Carlos,Ropa Superior
+2026-02-22,Accesorios,40000,15000,14,Lucia,Complementos
+2026-02-16,Zapatos,180000,90000,14,Elena,Calzado
+2026-02-12,Camiseta,50000,20000,10,Lucia,Ropa Superior
+2026-03-21,Chaqueta,220000,110000,14,Lucia,Invierno
+2026-01-26,Camiseta,50000,20000,20,Jorge,Ropa Superior
+2026-03-24,Jeans,120000,60000,20,Lucia,Ropa Inferior
+2026-02-01,Accesorios,40000,15000,15,Pedro,Complementos
+2026-01-16,Zapatos,180000,90000,13,Pedro,Calzado
+2026-02-22,Chaqueta,220000,110000,18,Marta,Invierno
+2026-01-27,Accesorios,40000,15000,8,Ana,Complementos
+2026-01-11,Accesorios,40000,15000,6,Carlos,Complementos
+2026-01-24,Jeans,120000,60000,12,Elena,Ropa Inferior
+2026-03-02,Camiseta,50000,20000,3,Elena,Ropa Superior
+2026-02-27,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-01-30,Chaqueta,220000,110000,14,Carlos,Invierno
+2026-03-19,Jeans,120000,60000,14,Pedro,Ropa Inferior
+2026-03-09,Chaqueta,220000,110000,4,Jorge,Invierno
+2026-02-12,Chaqueta,220000,110000,2,Luis,Invierno
+2026-03-21,Zapatos,180000,90000,11,Elena,Calzado
+2026-02-22,Jeans,120000,60000,20,Pedro,Ropa Inferior
+2026-01-13,Zapatos,180000,90000,15,Ana,Calzado
+2026-03-25,Camiseta,50000,20000,19,Carlos,Ropa Superior
+2026-03-20,Zapatos,180000,90000,9,Lucia,Calzado
+2026-03-20,Chaqueta,220000,110000,5,Lucia,Invierno
+2026-02-19,Camiseta,50000,20000,19,Carlos,Ropa Superior
+2026-01-01,Accesorios,40000,15000,20,Ana,Complementos
+2026-02-24,Camiseta,50000,20000,3,Carlos,Ropa Superior
+2026-01-25,Chaqueta,220000,110000,2,Carlos,Invierno
+2026-02-09,Zapatos,180000,90000,18,Lucia,Calzado
+2026-01-31,Camiseta,50000,20000,1,Lucia,Ropa Superior
+2026-03-16,Jeans,120000,60000,14,Elena,Ropa Inferior
+2026-02-19,Camiseta,50000,20000,16,Lucia,Ropa Superior
+2026-01-17,Accesorios,40000,15000,4,Ana,Complementos
+2026-03-13,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-01-07,Accesorios,40000,15000,10,Lucia,Complementos
+2026-02-23,Jeans,120000,60000,1,Pedro,Ropa Inferior
+2026-01-17,Chaqueta,220000,110000,6,Marta,Invierno
+2026-02-25,Chaqueta,220000,110000,11,Carlos,Invierno
+2026-03-19,Zapatos,180000,90000,15,Marta,Calzado
+2026-03-23,Jeans,120000,60000,12,Marta,Ropa Inferior
+2026-03-14,Chaqueta,220000,110000,2,Jorge,Invierno
+2026-03-28,Zapatos,180000,90000,11,Lucia,Calzado
+2026-02-09,Zapatos,180000,90000,11,Jorge,Calzado
+2026-03-17,Camiseta,50000,20000,5,Luis,Ropa Superior
+2026-03-01,Chaqueta,220000,110000,16,Ana,Invierno
+2026-02-04,Camiseta,50000,20000,6,Carlos,Ropa Superior
+2026-03-21,Jeans,120000,60000,15,Pedro,Ropa Inferior
+2026-02-12,Zapatos,180000,90000,12,Carlos,Calzado
+2026-03-07,Chaqueta,220000,110000,7,Pedro,Invierno
+2026-03-21,Zapatos,180000,90000,11,Marta,Calzado
+2026-02-26,Zapatos,180000,90000,3,Carlos,Calzado
+2026-01-25,Camiseta,50000,20000,2,Elena,Ropa Superior
+2026-02-28,Chaqueta,220000,110000,8,Ana,Invierno
+2026-01-02,Camiseta,50000,20000,7,Carlos,Ropa Superior
+2026-01-09,Zapatos,180000,90000,5,Ana,Calzado
+2026-01-02,Chaqueta,220000,110000,20,Pedro,Invierno
+2026-01-01,Zapatos,180000,90000,18,Ana,Calzado
+2026-03-29,Zapatos,180000,90000,2,Jorge,Calzado
+2026-03-08,Accesorios,40000,15000,9,Pedro,Complementos
+2026-02-01,Camiseta,50000,20000,8,Carlos,Ropa Superior
+2026-03-28,Camiseta,50000,20000,11,Lucia,Ropa Superior
+2026-01-08,Accesorios,40000,15000,8,Jorge,Complementos
+2026-01-27,Chaqueta,220000,110000,2,Elena,Invierno
+2026-02-02,Camiseta,50000,20000,2,Elena,Ropa Superior
+2026-02-26,Camiseta,50000,20000,3,Carlos,Ropa Superior
+2026-01-12,Chaqueta,220000,110000,9,Pedro,Invierno
+2026-03-04,Zapatos,180000,90000,3,Elena,Calzado
+2026-02-10,Chaqueta,220000,110000,4,Carlos,Invierno
+2026-01-23,Camiseta,50000,20000,16,Lucia,Ropa Superior
+2026-03-05,Chaqueta,220000,110000,6,Ana,Invierno
+2026-01-06,Accesorios,40000,15000,9,Pedro,Complementos
+2026-01-23,Jeans,120000,60000,11,Lucia,Ropa Inferior
+2026-03-22,Chaqueta,220000,110000,8,Luis,Invierno
+2026-01-15,Zapatos,180000,90000,3,Marta,Calzado
+2026-01-20,Camiseta,50000,20000,2,Luis,Ropa Superior
+2026-02-11,Zapatos,180000,90000,14,Elena,Calzado
+2026-02-21,Chaqueta,220000,110000,13,Ana,Invierno
+2026-03-01,Accesorios,40000,15000,2,Carlos,Complementos
+2026-01-01,Zapatos,180000,90000,14,Lucia,Calzado
+2026-03-01,Zapatos,180000,90000,19,Ana,Calzado
+2026-03-10,Jeans,120000,60000,3,Lucia,Ropa Inferior
+2026-01-04,Zapatos,180000,90000,12,Elena,Calzado
+2026-03-11,Jeans,120000,60000,4,Ana,Ropa Inferior
+2026-03-04,Jeans,120000,60000,18,Jorge,Ropa Inferior
+2026-01-27,Accesorios,40000,15000,3,Ana,Complementos
+2026-01-14,Zapatos,180000,90000,17,Luis,Calzado
+2026-02-01,Zapatos,180000,90000,10,Carlos,Calzado
+2026-03-19,Chaqueta,220000,110000,15,Carlos,Invierno
+2026-01-25,Camiseta,50000,20000,1,Elena,Ropa Superior
+2026-01-24,Accesorios,40000,15000,5,Luis,Complementos
+2026-03-10,Camiseta,50000,20000,8,Jorge,Ropa Superior
