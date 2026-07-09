@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Reporte Estratégico Medellín</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  body { font-family: sans-serif; background: #f4f6f9; padding: 20px; }
+  h1 { color: #1e293b; margin-bottom: 20px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+  .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+  .val { font-size: 28px; font-weight: bold; color: #2563eb; }
+  .analisis { white-space: pre-wrap; line-height: 1.6; color: #334155; }
+  canvas { max-width: 300px; max-height: 200px; margin: auto; display: block; }
+</style>
+</head>
+<body>
+<h1>Reporte Estratégico Medellín</h1>
+
+<!-- Gráficos en grid -->
+<div class="grid2">
+  <div class="card">
+    <h3>Comparativo Ventas vs Costos</h3>
+    <canvas id="ventasCostosChart"></canvas>
+  </div>
+  <div class="card">
+    <h3>Proporción Ventas/Costos/Ganancia</h3>
+    <canvas id="pieChart"></canvas>
+  </div>
+</div>
+
+<!-- Tarjetas KPI -->
+<div class="grid2">
+  <div class="card">
+    <small>VENTAS TOTALES</small>
+    <div class="val">$121.560.000</div>
+  </div>
+  <div class="card">
+    <small>COSTOS TOTALES</small>
+    <div class="val">$58.715.000</div>
+  </div>
+  <div class="card">
+    <small>CANTIDAD</small>
+    <div class="val">10259</div>
+  </div>
+</div>
+
+<!-- Análisis IA -->
+<div class="card" style="margin-top:20px;">
+  <h3>Análisis de Estrategia (IA)</h3>
+  <div class="analisis">
+    MEMORÁNDUM
+
+A: Junta Directiva  
+DE: Analista Financiero Senior  
+ASUNTO: Análisis de Desempeño Financiero y Evaluación de Margen Operativo  
+
+---
+
+### 1. Cálculos Financieros y Métrica de Rendimiento
+
+A continuación, se presentan las fórmulas financieras y los cálculos detallados que sustentan la evaluación del periodo actual, utilizando la notación estándar para el análisis de rentabilidad:
+
+*   Utilidad Operativa ($UO$): Representa el beneficio obtenido antes de impuestos e intereses, deduciendo los costos totales de las ventas totales.
+    $$UO = Ventas\ Totales\ (V) - Costos\ Totales\ (C)$$
+    $$UO = 121,560,000 - 58,715,000 = 62,845,000$$
+
+*   Margen Operativo ($MO$): Mide la eficiencia operativa de la organización, expresando la utilidad como porcentaje de los ingresos totales.
+    $$MO = \left( \frac{UO}{V} \right) \times 100$$
+    $$MO = \left( \frac{62,845,000}{121,560,000} \right) \times 100 \approx 51.70\%$$
+
+*   Precio Promedio Unitario ($PPU$): Determina el valor medio de facturación por cada unidad colocada en el mercado.
+    $$PPU = \frac{V}{Unidades\ Vendidas\ (U)}$$
+    $$PPU = \frac{121,560,000}{10,259} \approx 11,849.11$$
+
+*   Costo Promedio Unitario ($CPU$): Indica el costo medio asociado a la producción y comercialización de cada unidad vendida.
+    $$CPU = \frac{C}{U}$$
+    $$CPU = \frac{58,715,000}{10,259} \approx 5,723.27$$
+
+*   Margen de Contribución Unitario ($MCU$): El beneficio neto que aporta cada unidad vendida a la cobertura de los costos fijos y la generación de utilidades.
+    $$MCU = PPU - CPU$$
+    $$MCU = 11,849.11 - 5,723.27 = 6,125.84$$
+
+---
+
+### 2. Resumen Ejecutivo (JSON)
+
+El siguiente objeto JSON sintetiza los indicadores clave de rendimiento (KPIs) para su integración directa en los tableros de control de la dirección:
+
+```json
+{
+  "desempeno_financiero": {
+    "kpis_principales": {
+      "ventas_totales": 121560000.00,
+      "costos_totales": 58715000.00,
+      "utilidad_operativa": 62845000.00,
+      "margen_operativo_porcentaje": 51.70
+    },
+    "metricas_unitarias": {
+      "unidades_vendidas": 10259,
+      "precio_promedio_unitario": 11849.11,
+      "costo_promedio_unitario": 5723.27,
+      "margen_unitario_absoluto": 6125.84
+    }
+  }
+}
+```
+
+---
+
+### 3. Propuesta de Visualización de Datos
+
+Para la presentación formal ante la Asamblea General de Accionistas, se propone la implementación del siguiente esquema visual:
+
+*   Tipo de Gráfico: Gráfico de Cascada (Waterfall Chart) complementado con un Gráfico de Indicador de Aguja (Gauge Chart).
+*   Justificación Técnica: 
+    1.  El *Gráfico de Cascada* es la herramienta idónea para ilustrar la conciliación financiera. Permite observar de forma desagregada cómo el bloque inicial de ingresos ($121.56M) se ve disminuido por la estructura de costos ($58.71M) hasta llegar a la Utilidad Operativa final ($62.84M). Esto facilita la identificación visual inmediata del impacto de los costos sobre el ingreso bruto.
+    2.  El *Gráfico de Aguja* se ubicará al costado para mostrar el Margen Operativo del $51.70\%$. Al configurarlo con zonas de color (Rojo: $<35\%$, Amarillo: $35\%-45\%$, Verde: $>45\%$), la Junta Directiva podrá contrastar visualmente que el rendimiento actual se sitúa sólidamente en la zona de desempeño sobresaliente.
+
+---
+
+### 4. Informe Ejecutivo de Desempeño
+
+El análisis de los resultados financieros revela un escenario de alta rentabilidad y sólida eficiencia operativa. La organización ha logrado generar $121,560,000 en ingresos totales mediante la colocación de 10,259 unidades, lo que refleja un fuerte posicionamiento de precios en el mercado, con un precio promedio unitario de $11,849.11.
+
+El hallazgo más significativo es el Margen Operativo del 51.70%. En el contexto financiero corporativo, un margen que supera el umbral del 50% es indicativo de ventajas competitivas defensibles (como poder de fijación de precios o barreras de entrada altas) y de una gestión de costos sumamente disciplinada. Por cada peso facturado, la empresa retiene más de 51 centavos para cubrir obligaciones financieras, impuestos y reinversión de capital.
+
+La relación costo-beneficio a nivel unitario muestra que el costo de producir y vender cada unidad ($5,723.27) representa solo el 48.30% de su valor de venta. Esto genera un margen de contribución unitario de $6,125.84, otorgando un amplio colchón de seguridad financiera ante posibles fluctuaciones de precios en las materias primas o contracciones de la demanda.
+
+---
+
+### 5. Conclusión Ejecutiva y Recomendaciones Estratégicas
+
+#### Conclusión:
+La salud financiera de la compañía es excelente. La operación actual es altamente rentable y demuestra una baja sensibilidad al punto de equilibrio debido al elevado margen unitario. Sin embargo, un margen tan robusto también sugiere que existe espacio para optimizar el volumen de ventas mediante estrategias de penetración de mercado.
+
+#### Recomendaciones Estratégicas para la Junta Directiva:
+
+1.  Escalamiento de la Fuerza Comercial: Dado que el margen unitario ($6,125.84) es sustancial, se recomienda incrementar el presupuesto de marketing y adquisición de clientes (CAC). Incluso si esta estrategia eleva marginalmente el costo unitario promedio, el incremento en el volumen de unidades vendidas ($U$) generará un crecimiento exponencial en la utilidad neta absoluta.
+2.  Blindaje de la Cadena de Suministro: Se sugiere negociar contratos de suministro a largo plazo para asegurar el costo promedio unitario actual ($5,723.27). Proteger este nivel de costos ante presiones inflacionarias garantizará la sostenibilidad del margen por encima del 50% en los próximos ejercicios.
+3.  Evaluación de Elasticidad de Precios: Realizar un estudio de mercado para evaluar si una reducción estratégica y controlada de precios (p. ej., un 5%) podría desbloquear un crecimiento de volumen superior al 15%. La robustez del margen actual permite jugar de manera agresiva con la política de precios para desplazar competidores sin arriesgar la viabilidad financiera.
+  </div>
+</div>
+
+<script>
+  // Datos globales del CSV
+  const ventas = 121560000;
+  const costos = 58715000;
+  const cantidad = 10259;
+  const ganancia = ventas - costos;
+
+  // Gráfico de barras
+  const ctxBar = document.getElementById('ventasCostosChart').getContext('2d');
+  new Chart(ctxBar, {
+    type: 'bar',
+    data: {
+      labels: ['Ventas', 'Costos', 'Ganancia'],
+      datasets: [{
+        label: 'Valores en COP',
+        data: [ventas, costos, ganancia],
+        backgroundColor: ['#2563eb','#e74c3c','#16a34a']
+      }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: { y: { ticks: { font: { size: 12 } } } }
+    }
+  });
+
+  // Gráfico circular
+  const ctxPie = document.getElementById('pieChart').getContext('2d');
+  new Chart(ctxPie, {
+    type: 'pie',
+    data: {
+      labels: ['Ventas', 'Costos', 'Ganancia'],
+      datasets: [{
+        data: [ventas, costos, ganancia],
+        backgroundColor: ['#2563eb','#e74c3c','#16a34a']
+      }]
+    },
+    options: {
+      plugins: {
+        legend: { position: 'bottom', labels: { font: { size: 12 } } }
+      }
+    }
+  });
+</script>
+
+</body>
+</html>
